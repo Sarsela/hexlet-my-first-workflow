@@ -1,4 +1,4 @@
-name: hexlet-my-first-workflow
+name: show-directory
 on: push
 jobs:
   build:
